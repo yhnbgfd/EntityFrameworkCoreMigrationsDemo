@@ -1,1 +1,2 @@
-# EntityFrameworkCoreMigrationsDemo
+# EntityFrameworkCoreMigrationsDemo  
+`dotnet ef migrations add [NAME]`
